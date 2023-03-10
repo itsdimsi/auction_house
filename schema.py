@@ -1,5 +1,5 @@
 
-sell = {"toaster_id":[10,20,10.00]}
+sell = {"toaster_id":[10,20,10.00,0,'maxbidder']}
 
 bids = {
     "toaster_id":

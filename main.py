@@ -55,10 +55,11 @@ for new_item  in sell:
 #
 # count+1
 #
-# if timer> time:
+# if timer< end_time and bid>toaster[-1]:
 #     "update"
 #
-# if item[3] > toaster[-1]:
-#     ..
+
+
+
 # if len(toaster) == 3:
 #     "UNSOLD"

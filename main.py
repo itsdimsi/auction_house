@@ -12,6 +12,12 @@ x = open("newfile.txt")
 #             "user2": [8]
 #             }
 # }
+# columns ...
+# toaster_id user_id auction
+# toaster_id , 5  , 100 , bid
+#  toaster_id , 10  , 70 ,sell
+
+
 sell = {}
 bids = {}
 
@@ -34,3 +40,25 @@ for line in x:
 
 for new_item  in sell:
     print ("asdasd")
+
+#  toaster_id , 10  , 70 ,sell
+# toaster_id , 5  , 100 , bid
+
+
+# newdict = {
+#     "toaster1": ["count_bid","maxbidder",sell_price,100,35,345,46,57,6868],
+#      ...  .
+#      }
+#
+# if bid > toaster[-1]:
+#     maxbidder = item[1]
+#
+# count+1
+#
+# if timer> time:
+#     "update"
+#
+# if item[3] > toaster[-1]:
+#     ..
+# if len(toaster) == 3:
+#     "UNSOLD"

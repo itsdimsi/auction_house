@@ -1,4 +1,3 @@
-# THOUGHT MACHINE Programming Test - Auction House
 
 ## Directory Information
 
